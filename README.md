@@ -7,6 +7,6 @@ This is the first custom project that I made entirely myself with blueprint. I w
 <img width="1029" height="604" alt="entire deck case" src="https://github.com/user-attachments/assets/c365ca9a-11a9-4dd5-910e-36ff79fd7a12" />
 
 
-Bill of Materials (also in .xlsx or .pdf format above)
+Bill of Materials (also in .csv, .pdf and .xlsx above)
 
 https://docs.google.com/spreadsheets/d/1YIMidLEBGTOn3Rd8zSfk7by4zXuFBuVpvl5fr7VheBs/edit?gid=0#gid=0
