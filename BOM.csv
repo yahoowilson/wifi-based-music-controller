@@ -1,6 +1,6 @@
 Item,Price,Quantity,Shipping Cost,Manufacturer,Total Cost,
 ,,,,,,
-XIAO RP 2040,$3.99,1 pcs,$6.20,seeedstudio.com,$10.19,x
+XIAO ESP32-C3,$4.90,1 pcs,$6.20,seeedstudio.com,$10.19,x
 MX Switches,$2.80,10 pcs,$4.90,mechanicalkeyboards.com,$7.70,x
 Hotswap Sockets,$1.10,10 pcs,$0.00,mechanicalkeyboards.com,$1.10,x
 Blank Keycaps,$5.95, 8 pcs,$0.00,mechanicalkeyboards.com,$5.95,x
@@ -10,3 +10,4 @@ OLED display,$6.99,1 pcs,$6.99,amazon.com,$6.99,x
 1x4 pin header,$11.99,1 pcs,0,amazon.com,$11.99,x
 PCB,$2,1pcs,$5.30,JLCPCB.com,$5,x
 ,$45.47,,$28.81,,$74.28,
+
